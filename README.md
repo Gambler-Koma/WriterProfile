@@ -1,1 +1,2 @@
-# WriterProfile
+# So this project is for the creative writers out there.
+I am a creative writer in my spare time and I enjoy getting a blast out of writing lore and story for any character I've created like my recent character named Jade. But the problem with having so many stories is that its very difficult to keep them all in track and also remembering every single character I write about. The purpose of this Application will be to hold many profiles for characters, links to docs of their stories or lore, a gallery for pictures or art of them, and a contact info spot for if anyone wants to reach out to the creator. This App will have a login so you can always have separate profiles for different categories of story telling.
